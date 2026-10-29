@@ -1,0 +1,14 @@
+# Visual Studio user settings and workspace caches
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build and publish output
+[Bb]in/
+[Oo]bj/
+[Pp]ublish/
+
+# Questions created locally while running the application
+Added Questions/
